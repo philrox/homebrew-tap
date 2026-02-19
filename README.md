@@ -18,7 +18,7 @@ brew install philrox/tap/<name>
 
 ### Formulae
 
-- `ris` — Austrian legal information system (RIS) CLI
+- `risgo` — Austrian legal information system (RIS) CLI
 
 ## Update / Uninstall
 
